@@ -1,0 +1,138 @@
+Primeiros passos para o desenvolvimento Web
+
+O que são redes:
+- Backbone: espinha dorsal
+- Provedor de acesso: Empresas telefonicas - contratam o sinal do backbone e fornecem acesso ao usuário final
+- Provedor de serviços: Dial-up/ ADSL (banda larga)/ Fibra ótica/ Rádio/ Satélite/ Móvel/ P2P* (peer to peer)
+
+Caminho inverso
+- www
+- DNS
+- IP
+- Classes de redes
+- 127.0.0.1 - local host
+
+TCP/IP
+-04 camadas: 
+1. Física
+2. Rede
+3. Transporte (ex: TCP, UDP)
+4. Aplicação (ex: FTP, SMTP, HTTP)
+TCP x UDP
+UDP
+-Rápido
+-Não confiável
+-Carro do ovo
+-Livestream
+TCP
+-Voltado à conexão
+-Handshake
+-Integridade, ordem dos dados
+-Aplicativo de mensagens de texto
+
+Portas
+-As "portinhas" por onde dados sairão e chegarão
+-20: FTP
+-22: SSH
+-25:SMTP
+-53: DNS
+-80: HTTP
+-443: HTTPS
+
+Modem
+-Modulatos-demodulator
+-Hardware que converte dados em um formato que possa ser transmitido de um computador para outro e lido por outro.
+
+Roteador
+-Distribui internet para um ou mais dispositivos em uma rede
+-Pode fazer a comunicação entre redes
+-Pode ser "burro" (carro do ovo)
+
+Switch
+-Distribui internet para um ou mais dispositivos de uma rede
+-Criado para ser "inteligente"
+
+Stacks
+O que é
+-Pilhas de tecnologias
+-Conjuntos de softwares para executar um aplicativo
+-Linguagens de programação
+-Ambientes e ferramentas de interação com o app/sw
+-Capacidade e limitação de performance
+-Pontos fortes e fracos do app/sw
+Importância
+-Os líderes de projetos precisam das informações das equipes de desenvolvimento
+-Os desenvolvedores precisam saber as limitações e capacidades das ferramentas que têm disponíveos
+-Sistemas, bancos de dados, LPs, protocolos de comunicação
+-Estratégias de negócios
+-Maturidade
+-Contratações, planos de mitigações de risco, aumento da capacidade, uso dos dados
+
+Front-end
+-"Parte da frente"
+-Site, software, app, web service
+-Interface, UI, UX
+-Lógica da programação, HTML, CSS, jQuery/JS/AJAX, PHP, Bootstrap/outros frameworks
+
+Back-end
+-"Parte de trás"
+-Servidores, bancos de dados
+-"meio de campo" entre interface e banco de dados, regras de negócios, validações
+-MySQl, Oracle, protocolos de comunicação, PHP, Java, Node.JS
+
+Full stack
+-Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento;execução de um app/sw
+
+Termos comuns
+-404 - erro
+-Algoritmo - seq de passos para executar uma tarefa
+-ALT - texto alternativo (para o mouse em cima de uma gravura, ex)
+-API - espécie de peça de lago, funcionalidade a mais no site para outras funções
+-Aplicação - software, programa
+-Back-end - ja vimos
+-Biblioteca/dll - conjunto de ferramentas disponíveis
+-Bootstrap - frameworks mais usados hj em dia
+-Breakpoints - pontos chave para montar tela de diversos dispositivos; ou pontos de parada para mandar dbug
+-Browser/navegador - já vimos
+-Bug - problema 
+-Cache - já vimos
+-Código - instruçoes feita em LP para site ser interpretado
+-Controle de versão
+-Cookies
+-Debug - descobrir o problema, passar a limpo
+-Deploy - pacotinho para ser publicado
+-Design adaptativo/responsivo - um site que se adequa a qualquer lugar
+-DNS - tradutor de nome site para Ip e vice versa
+-Documentação
+-Domínio
+-DPI - parte com resolução
+-Editor de texto
+-Estrutura de dados
+-Favicon - figurinha do site
+-Fontes
+-Framework
+-Front-end - já vimos
+-FTP
+-Full-stack - já vimos
+-GitHub/SVN/CVS - controles de versão
+-HTTP(S)
+-IP - cada integrante da rede conectado
+Linguagem
+-Meta tags - algumas tags que tem papéis específicos
+-Método ágil - técnicas desenvolvimento melhor e mais rápido do sistema
+-Mobile - dispositivos moveis
+-MVC - model view controler - arquitetura software que separa as partes envolvidas na aplicação
+-MVP - minimo produto viável 
+-MySQL - linguagem usada em banco de dados
+-PIX - picture mais elements
+-Resolução - quantidade de pix que a tela tem
+-Servidor - já vimos
+-Sistema operacional - SO - Linux, Windows, Android, Mac...
+-Solução 
+-SSL - camada segurança
+-UI - user interface
+-UX - user experience
+-Versão - não existe lógica 
+-WYSIWYG - o que você vê é o que você recebe 
+
+
